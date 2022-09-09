@@ -1,1 +1,2 @@
 # bmstu-courses
+# data science
